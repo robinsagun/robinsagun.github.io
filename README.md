@@ -3,7 +3,7 @@
 ## About me
 Nice one :relaxed:
 
-!{mypic(20190331_160351.jpg)}
+![mypic](/20190331_160351.jpg)
 
 ### Markdown
 
