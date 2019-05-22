@@ -1,11 +1,8 @@
 # Hello!
 
-### About me
----
- 
-  はじめまして！　
+### About me 　
   
-  I'm a 4th year Anthropology major from the University of the Philippines Diliman, currently on exchange at Hokkaido University as part of the Hokkaido University Short Term Exchange Program (HUSTEP) under the College of Humanities and Human Sciences.　よろしくおねがいします。
+  I'm a 4th year Anthropology major from the University of the Philippines Diliman, currently on exchange at Hokkaido University as part of the Hokkaido University Short Term Exchange Program (HUSTEP) under the College of Humanities and Human Sciences.
   
   I've done research in ethnoarchaeology, social anthropology, and ethnolinguistics in urban and rural communities in the Philippines. My current interests in my field of study involve gender and sexuality, globalization, and human rights. I'm also interested in the idea of subcultures, and would love to do research on some of them whether through academic journals or culture magazines. In the future, I also hope to work in the field of museology: I want to make art and representations of culture accessible to the everyday person -- inside or outside the museum. As for extra-curriculars, I'm currently the outgoing Advocacy Committee head of my major's home organization, the UP Anthropology Society, where I'm in charge of planning academic fora (usually regarding Indigenous Peoples' issues), writing issue stances on behalf of the organization, and organizing advocacy movements when possible.
   
