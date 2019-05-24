@@ -11,4 +11,8 @@
   
 You can take a look at my CV, my instagram, or my twitter here:
 
-[![cv](https://github.com/robinsagun/robinsagun.github.io/blob/master/cv_icon.png "my CV")](https://github.com/robinsagun/robinsagun.github.io/blob/master/Robin_Sagun%2BCV.pdf)[![ig](https://github.com/robinsagun/robinsagun.github.io/blob/master/iconfinder_38-instagram_1161954.png "@robin.sagun")](https://instagram.com/robin.sagun) [![twt](https://github.com/robinsagun/robinsagun.github.io/blob/master/iconfinder_43-twitter_104461.png "@robinSWAGun")](https://twitter.com/robinSWAGun)
+<html>
+  <a href="https://github.com/robinsagun/robinsagun.github.io/blob/master/Robin_Sagun%2BCV.pdf" img src=" https://github.com/robinsagun/robinsagun.github.io/blob/master/cv_icon.png "my CV">
+  <a href="https://instagram.com/robin.sagun" img src="https://github.com/robinsagun/robinsagun.github.io/blob/master/iconfinder_38-instagram_1161954.png">
+  <a href="https://twitter.com/robinSWAGun" img src="https://github.com/robinsagun/robinsagun.github.io/blob/master/iconfinder_43-twitter_104461.png">
+                                                                                                                                                     </html>                                                                                                                                          
