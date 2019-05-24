@@ -14,4 +14,3 @@
   <p><a href="https://github.com/robinsagun/robinsagun.github.io/blob/master/Robin_Sagun%2BCV.pdf"> <img src="cv_icon.png"></a>
   <a href="https://instagram.com/robin.sagun"><img src="iconfinder_38-instagram_1161954.png"></a>
   <a href="https://twitter.com/robinSWAGun"><img src="iconfinder_43-twitter_104461.png"></a></p>
-</body>
