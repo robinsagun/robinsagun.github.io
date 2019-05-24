@@ -10,7 +10,7 @@
   
   <p>In my free time, I enjoy taking photos and videos and then afterwards, compiling as well as editing them. I also enjoy reading books (contemporary, classics, and the occasional sci-fi/fantasy novels) and watching films (literally anything). </p>
   <p>
-  <p>You can take a look at my CV, my instagram, or my twitter here:
-  <center><a href="https://github.com/robinsagun/robinsagun.github.io/blob/master/Robin_Sagun%2BCV.pdf"> <img src="cv_icon.png"></a>
+  <center><p>You can take a look at my CV, my instagram, or my twitter here:
+  <a href="https://github.com/robinsagun/robinsagun.github.io/blob/master/Robin_Sagun%2BCV.pdf"> <img src="cv_icon.png"></a>
   <a href="https://instagram.com/robin.sagun"><img src="iconfinder_38-instagram_1161954.png"></a>
   <a href="https://twitter.com/robinSWAGun"><img src="iconfinder_43-twitter_104461.png"></a></center>
